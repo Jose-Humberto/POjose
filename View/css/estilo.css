@@ -1,0 +1,51 @@
+body
+{
+  background: #388c12;
+  /*background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));*/
+}
+
+p
+{
+  text-align: justify;
+}
+
+.CadastroUsuario
+{
+  background-color: white;
+}
+
+.botaoesCadastro
+{
+  float: right;
+}
+
+.carousel-caption
+{
+  position: absolute;
+  background-color: rgba(0,0,0,0.6);
+  width: 100%;
+  left: 0px;
+}
+
+.jumbotron
+{
+  background-color: #E6E6E6;
+}
+
+.carousel-inner
+{
+  height: 600px;
+}
+
+footer
+{
+	/*clear: both;*/
+	background: black;
+	color: white;
+	text-align: center;
+	line-height: 2;
+	padding: 2px ;
+	width: 100%;
+	top: 100%;
+	/*border: 1px solid red;*/
+}
